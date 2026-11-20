@@ -32,7 +32,7 @@ Morning-News-Paper/
 
 ## 매일 자동 발행
 
-`.github/workflows/daily.yml`이 매일 **한국 시간 10:20, 12:20**에 돌면서
+`.github/workflows/daily.yml`이 매일 **한국 시간 09:30**에 발행하고, 늦게 올라온 브리핑을 위해 10:30·12:30에 한 번씩 더 확인하면서
 
 1. 세 레포의 `briefings/`를 가져와
 2. `scripts/build.py`로 날짜별 신문을 다시 만들고
@@ -41,10 +41,15 @@ Morning-News-Paper/
 Actions 탭에서 **Run workflow**로 언제든 수동 실행할 수 있습니다.
 원본 레포에서 브리핑을 올린 직후 바로 발행하고 싶다면, 원본 레포의 작업 끝에 `repository_dispatch`(`briefing-updated`)를 보내면 됩니다.
 
-## 웹으로 열기 (GitHub Pages)
+## 웹 주소
 
-Settings → Pages → **Deploy from a branch** → `main` / `(root)` 를 고르면
-`https://dhcoaud98.github.io/Morning-News-Paper/` 에서 열립니다.
+**https://morning-news-paper.vercel.app** — Vercel이 `main`에 커밋이 올라올 때마다 자동으로 다시 배포합니다.
+
+## 아이콘 · Notion 이미지
+
+- `assets/icons/` — 파비콘(svg·32px), 앱 아이콘(180·192·512px), 공유 미리보기 이미지(og-image)
+- `assets/notion/notion-icon.png` (512×512), `assets/notion/notion-cover.png` (1500×600) — Notion 페이지 아이콘·커버용
+- 다시 만들려면 `python3 scripts/make_images.py` (Playwright 필요)
 
 ## 로컬에서 보기
 

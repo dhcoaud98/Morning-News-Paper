@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="아침 브리핑">
+  <rect x="1.5" y="1.5" width="61" height="61" rx="14" fill="#F5F2EA" stroke="#1A1A1A" stroke-width="2.5"/>
+  <path d="M17 35 A15 15 0 0 1 47 35 Z" fill="#9E2A1E"/>
+  <rect x="10" y="35" width="44" height="4.5" fill="#1A1A1A"/>
+  <rect x="10" y="42" width="44" height="1.6" fill="#1A1A1A"/>
+  <rect x="10" y="47.5" width="44" height="3.2" rx="1" fill="#1A1A1A" opacity=".55"/>
+  <rect x="10" y="53.5" width="28" height="3.2" rx="1" fill="#1A1A1A" opacity=".55"/>
+</svg>
