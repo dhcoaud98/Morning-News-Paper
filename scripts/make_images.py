@@ -11,7 +11,7 @@ ICONS = ROOT / "assets" / "icons"
 NOTION = ROOT / "assets" / "notion"
 SVG = (ICONS / "favicon.svg").read_text(encoding="utf-8")
 
-PAPER, INK, MUTED, RULE, ACCENT = "#F5F2EA", "#1A1A1A", "#5A5650", "#C9C3B6", "#9E2A1E"
+PAPER, INK, MUTED, RULE, ACCENT = "#FAF8F3", "#1A1A1A", "#5A5650", "#C9C3B6", "#9E2A1E"
 SERIF = '"Noto Serif CJK KR","Noto Serif KR",serif'
 SANS = '"Noto Sans CJK KR","Noto Sans KR",sans-serif'
 
