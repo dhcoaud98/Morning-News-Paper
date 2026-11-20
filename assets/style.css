@@ -218,3 +218,13 @@ b{font-weight:700}
   .recent .dt{width:auto;flex-direction:row;gap:8px}
   .recent .rt{flex-basis:100%;order:3}
 }
+
+/* 살짝 둥근 모서리 */
+:root{--r:8px;--r-sm:6px}
+.sb{border-radius:4px}
+.box,.term,.quiz{border-radius:var(--r)}
+.why{border-radius:0 0 var(--r-sm) var(--r-sm)}
+.pill,.icon-btn,.filters input,.cta{border-radius:var(--r-sm)}
+.cal a.card{border-radius:var(--r-sm)}
+.recent a.row{border-radius:var(--r-sm)}
+@media (max-width:860px){ .nav a{border-radius:var(--r-sm)} }
