@@ -1,0 +1,62 @@
+name: 아침 브리핑 발행
+
+on:
+  schedule:
+    # 한국 시간 10:20, 12:20 (HR·AI-AX·economy 브리핑이 올라온 뒤). 같은 날 여러 번 돌아도 결과는 같습니다.
+    - cron: "20 1 * * *"
+    - cron: "20 3 * * *"
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [briefing-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-paper
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 신문 레포 가져오기
+        uses: actions/checkout@v4
+
+      - name: HR 브리핑 가져오기
+        uses: actions/checkout@v4
+        with:
+          repository: dhcoaud98/HR
+          path: _sources/HR
+          sparse-checkout: briefings
+
+      - name: AX·AI·기업교육 브리핑 가져오기
+        uses: actions/checkout@v4
+        with:
+          repository: dhcoaud98/AI-AX
+          path: _sources/AI-AX
+          sparse-checkout: briefings
+
+      - name: 경제 브리핑 가져오기
+        uses: actions/checkout@v4
+        with:
+          repository: dhcoaud98/economy
+          path: _sources/economy
+          sparse-checkout: briefings
+
+      - name: 신문 만들기
+        run: |
+          python3 scripts/build.py \
+            --hr _sources/HR --ax _sources/AI-AX --econ _sources/economy
+
+      - name: 새 호 커밋
+        run: |
+          git config user.name "morning-paper-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add issues
+          if git diff --cached --quiet; then
+            echo "새로 발행할 내용이 없습니다."
+            exit 0
+          fi
+          git commit -m "📰 아침 브리핑 $(TZ=Asia/Seoul date +%Y-%m-%d) 발행"
+          git push

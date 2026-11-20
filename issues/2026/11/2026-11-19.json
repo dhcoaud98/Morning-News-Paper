@@ -1,0 +1,391 @@
+{
+ "date": "2026-11-19",
+ "weekday": "목",
+ "issueNo": 32,
+ "sections": {
+  "hr": {
+   "title": "HR 브리핑 | 2026-11-19 (목)",
+   "oneLine": "위반을 누구나 신고하게 하는 산업안전 포상금, 노조원 차별을 '평가 등급'에서 찾아낸 판결, 인턴 기간을 면접처럼 쓰는 채용, '급여 숫자의 정의'까지 관리하는 HR 시스템까지, 오늘 소식은 모두 '기록과 기준이 증거가 된다'는 쪽을 가리킵니다.",
+   "categories": [
+    {
+     "name": "HR 트렌드",
+     "articles": [
+      {
+       "title": "산업안전 위반·산재 은폐를 신고하면 최대 500만 원… 포상금 제도 2027년 1월 28일 시행, 시행령은 12월 22일까지 의견 수렴",
+       "when": "2026-11-12 입법예고, 11-15·19 보도",
+       "body": [
+        "10월 27일 공포된 개정 산업안전보건법에 따라, 사업장의 안전조치 위반이나 산재 은폐를 신고한 사람에게 포상금을 주는 제도가 2027년 1월 28일부터 시행됩니다. 노동부가 11월 12일 입법예고한 시행령 개정안은 위험도에 따라 5만 원(보호구 미착용 같은 경미한 위반), 50만 원(추락·끼임 등 6대 고위험 위반), 최대 500만 원(작업중지 명령 위반·산재 은폐 같은 고의 위반)을 검토하고 있고, 처음 논의된 '1인 연 3회·1천만 원' 상한은 두지 않기로 했습니다. 현장 노동자가 아니어도 누구나 신고할 수 있고, 근로감독관이 현장을 확인해야 지급되며, 부정 수급자는 5년간 받지 못하게 합니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "앞으로는 감독관이 오기 전에 직원이나 외부인이 먼저 위반을 신고할 수 있게 됩니다. 법정 안전보건교육을 '이수 기록용'으로만 운영해 왔다면, 보호구 착용·작업중지 같은 현장 행동이 실제로 바뀌는지를 보는 교육으로 손볼 때입니다. 신고가 내부 갈등으로 번지지 않게 사내 신고 창구를 먼저 정비하는 일도 HR의 몫입니다."
+       },
+       "notes": [
+        {
+         "label": "단계·적용 대상",
+         "text": "포상금 근거 조항은 이미 법에 들어가 2027년 1월 28일 시행 예정이고, 금액과 지급 기준을 정한 시행령은 아직 입법예고 단계(12월 22일까지 의견 수렴)입니다. 세부 금액은 바뀔 수 있습니다."
+        },
+        {
+         "label": "확인 정도",
+         "text": "비즈중앙 기사와 이투데이 기고(한양노무법인 노무사 칼럼)로 확인했습니다. 노동부 입법예고 원문은 직접 보지 않았습니다. 기고는 '파파라치식 신고'와 허위 신고를 걱정하는 필자 의견이 섞여 있어 사실 부분만 옮겼습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "비즈중앙 – 산재 은폐 신고에 최대 500만원…부정수급 땐 5년간 지급 제한 추진",
+         "url": "https://www.bizjoongang.co.kr/news/articleView.html?idxno=55361"
+        },
+        {
+         "title": "이투데이 – [시론] 산업안전 신고포상금제가 시행된다",
+         "url": "https://www.etoday.co.kr/news/view/2650004"
+        }
+       ]
+      },
+      {
+       "title": "법원 \"노조원에게 몇 년간 낮은 인사고과를 준 건 부당노동행위\"… 한화에어로스페이스 판결에 노조·국회의원 \"원상회복하라\"",
+       "when": "2026-11-18 기자회견",
+       "body": [
+        "금속노조 경남지부와 야당 의원들이 18일 국회에서 기자회견을 열고, 한화에어로스페이스에 노조원 피해 원상회복과 사과, 재발 방지를 요구했습니다. 매일노동뉴스에 따르면 대전고등법원은 지난달 29일 파기환송심에서 회사가 2015년부터 몇 년간 노조원에게 낮은 인사고과를 몰아줬고, 그 결과가 2019년 승진 심사와 임금에 영향을 줬다고 판단했습니다. 앞서 1월 보도(오마이뉴스)에서도 2015~2018년 노조원의 승진율이 비노조원의 절반에 못 미쳤다는 점이 다퉈졌습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "평가 등급은 보상·승진뿐 아니라 '차별의 증거'로도 쓰인다는 사례입니다. 특정 집단에 낮은 등급이 몰려 있는지 정기적으로 점검(캘리브레이션 결과 분석)하고, 등급마다 근거를 남기는 평가 운영은 노무 리스크를 줄이는 장치이기도 하니, 평가자 교육을 맡는 HRD도 이 관점을 함께 가져가면 좋습니다."
+       },
+       "notes": [
+        {
+         "label": "단계·적용 대상",
+         "text": "확정 판결이 아닙니다. 회사가 대법원에 다시 상고(재상고)하는 것을 검토 중이라고 보도됐습니다."
+        },
+        {
+         "label": "확인 정도",
+         "text": "매일노동뉴스(11-19)와 오마이뉴스(1-23) 원문으로 확인했습니다. 두 기사가 전하는 재판 단계와 날짜가 서로 딱 맞지 않아, 최신 기사 기준으로 옮기고 세부 경과는 단정하지 않았습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "매일노동뉴스 – '한화에어로스페이스, 노조 차별' 판결에 \"원상회복\" 촉구",
+         "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237812"
+        },
+        {
+         "title": "오마이뉴스 – 법원 \"한화에어로스페이스 등 회사, 부당노동행위\" 판결",
+         "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003201269"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "채용·취업",
+     "articles": [
+      {
+       "title": "당근, 개발 직무 '채용연계형 인턴' 모집… 실제 서비스 화면을 맡겨 보고, 인턴 중 전환 면접 후 바로 정규직으로",
+       "when": "2026-11-18 보도",
+       "body": [
+        "당근이 '2027 당근 프로덕트 빌더 인턴십'으로 개발 인턴을 뽑습니다. 지원자는 세 조직(CPG, 피드실, 커뮤니티실) 중 하나를 골라 지원하고, 붙으면 2027년 1월 25일부터 약 3개월간 실제 서비스 화면 하나를 맡아 기획부터 개발, 사용자 반응 분석까지 책임집니다. 전형은 서류 → 화상 인터뷰 → 직무 인터뷰이고, 인턴 기간 중 정규직 전환 인터뷰와 평가를 거쳐 전환되면 인턴이 끝나자마자 공백 없이 정규직으로 일합니다. 지원 마감은 12월 6일입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "신입 채용이 '면접 몇 번'에서 '석 달 동안 실제 일 시켜 보기'로 옮겨 가는 사례입니다(11월 15일 브리핑의 '이력서보다 업무 평가를 믿는다'와 같은 흐름). 이런 제도에서는 인턴에게 무슨 일을 맡기고 어떤 기준으로 평가할지 설계하는 일이 핵심인데, 이는 HRD의 과정 설계·평가 설계 경험이 채용 업무로 바로 이어지는 지점입니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "파이낸셜뉴스·유니콘팩토리 원문으로 확인했습니다. 선발 인원, 지원 자격, 급여는 두 기사 모두 밝히지 않았습니다. 한 기사는 '채용연계형', 다른 기사는 '채용전환형'이라고 썼는데 같은 뜻입니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "파이낸셜뉴스 – 당근, 개발 직무 채용연계형 인턴십 모집",
+         "url": "https://www.fnnews.com/news/202611181032368178"
+        },
+        {
+         "title": "유니콘팩토리 – \"당근 서비스 고도화할 개발 인재 찾는다\" 인턴십 참가자 모집",
+         "url": "https://www.unicornfactory.co.kr/article/2026111813273115179"
+        }
+       ]
+      },
+      {
+       "title": "미국 채용 담당자 1,200여 명 조사: 68%가 AI를 쓰지만 '시간의 절반 이상을 가치 있는 일로 옮겼다'는 곳은 18%로 오히려 줄어",
+       "when": "2026-11-05 게재",
+       "body": [
+        "채용 솔루션 회사 Employ의 '2026 Recruiter Nation' 보고서를 소개한 Jobvite 블로그에 따르면, 조사 대상 조직의 74%가 채용을 늘렸지만 25명 이하만 뽑은 곳이 43%로 지난해(20%)보다 크게 늘었습니다. 채용팀의 68%가 AI를 쓰는데도 업무 시간의 절반 이상을 고부가 업무로 옮겼다는 곳은 18%로 지난해(26%)보다 줄었고, 33%는 'AI로 다듬은 이력서'를 큰 스트레스로 꼽았으며, 지원자 사기를 실제로 확인한 곳도 27%(지난해 23%)로 늘었습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "'AI를 쓰면 시간이 남는다'는 기대와 달리, AI로 꾸민 지원서가 늘면서 걸러 내는 일이 오히려 늘어난 셈입니다. 채용이든 교육이든 AI 도입 효과를 말할 때 '사용률'이 아니라 '사람이 실제로 어디에 시간을 쓰게 됐는가'를 지표로 잡아야 한다는 교훈으로 읽으면 좋습니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "채용 솔루션 회사가 자사 보고서를 요약한 블로그 글이라 홍보 성격이 있습니다. 보고서 원문은 보지 않았습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "Jobvite – 6 Recruiting Statistics You Need to Know Heading Into 2027",
+         "url": "https://www.jobvite.com/blog/6-recruiting-statistics-you-need-to-know-heading-into-2027/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HR 업계",
+     "articles": [
+      {
+       "title": "Workday, '시맨틱 레이어' 회사 Honeydew 인수 발표… \"급여 숫자를 AI가 즉흥적으로 계산하게 두지 않겠다\"",
+       "when": "2026-11-18 발표",
+       "body": [
+        "Workday가 바르셀로나에서 연 Workday Rising EMEA 행사에서 Honeydew 인수 계획을 밝혔습니다. Honeydew는 '인건비', '이직률' 같은 업무 용어의 계산 방식을 한곳에 정해 두는 기술(시맨틱 레이어)을 만드는 회사로, Workday는 이를 자사 데이터 플랫폼(Data Cloud)에 넣어 AI 에이전트와 BI 도구가 모두 같은 정의와 권한 규칙으로 답하게 할 계획입니다. 같은 행사에서 Workday는 중견기업용 패키지 'Workday GO for HR'를 6개국에 더 내놓아 27개 시장으로 넓혔고, 고객 데이터를 EU 안에서만 AI 처리하는 EU 전용 클라우드도 소개했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "어제 브리핑의 Microsoft Copilot에 이어, HR 테크 업계가 'AI가 답하기 전에 용어 정의부터 맞추라'는 쪽으로 가고 있습니다. '교육 이수율', '1인당 교육 시간'처럼 HRD가 쓰는 지표도 부서마다 계산법이 다르면 AI가 엉뚱한 숫자를 내놓게 되니, 지표 정의서를 만들어 두는 일이 곧 HR 데이터 역량입니다."
+       },
+       "notes": [
+        {
+         "label": "단계",
+         "text": "인수는 '의향 발표' 단계로, Workday 회계연도 2027년 4분기(2027년 1월 말까지) 완료를 목표로 합니다. 인수 금액은 공개되지 않았습니다."
+        },
+        {
+         "label": "확인 정도",
+         "text": "Unite.AI와 Fast Company Middle East 기사로 확인했습니다. 두 매체 모두 Workday 발표를 정리한 기사이고, Unite.AI 기사는 AI가 쓰고 편집부가 검토했다고 밝히고 있습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "Unite.AI – Workday Plans Honeydew Acquisition to Unify AI Business Definitions",
+         "url": "https://www.unite.ai/workday-plans-honeydew-acquisition-to-unify-ai-business-definitions/"
+        },
+        {
+         "title": "Fast Company Middle East – Workday expands AI, payroll and financial management offerings across global markets",
+         "url": "https://fastcompanyme.com/news/workday-expands-ai-payroll-and-financial-management-offerings-across-global-markets"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "실무 툴",
+     "articles": [
+      {
+       "title": "잡코리아×노션 HR 워크숍: 채용 요청부터 최종 오퍼까지 단계별로 쪼개 '반복 작업'에 AI 워크플로우 붙이기",
+       "when": "2026-11-12 보도, 11-03 개최",
+       "body": [
+        "잡코리아 운영사 웍스피어가 노션과 처음 함께 HR 담당자 약 40명을 대상으로 'AI 채용 워크플로우 설계' 실습 워크숍을 열었습니다. 참가자들은 채용 요청 → 공고 → 서류 → 면접 → 오퍼로 이어지는 과정을 단계별로 펼쳐 놓고, 정보가 여기저기 흩어져 있거나 같은 일이 반복되는 지점을 찾아 AI 자동화 흐름을 직접 설계했습니다. 핵심은 흩어진 채용 정보(요청서, 지원자 정보, 면접 평가)를 하나의 데이터베이스로 모으는 것이었고, 참가자별 1:1 피드백과 '2027 연봉 벤치마크 리포트'도 제공됐습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "실무자가 바로 따라 할 수 있는 순서는 '① 업무를 단계별로 쪼갠다 → ② 정보가 흩어진 곳과 반복되는 곳에 표시한다 → ③ 데이터를 한 표(DB)로 모은 뒤 AI를 붙인다'입니다. 교육 신청·출결·만족도 설문처럼 HRD 업무에도 그대로 써 볼 수 있고, 이렇게 정리한 사례는 HR 직무 면접에서 'AI 활용 경험'으로 말하기 좋은 소재가 됩니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "이코노미사이언스 기사로 확인했습니다. 회사 행사 소개 기사라 구체적인 워크플로우 예시는 나오지 않습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "이코노미사이언스 – 잡코리아, 노션과 AI 채용 워크플로우 설계…HR 업무 자동화 실습 지원",
+         "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139648"
+        }
+       ]
+      },
+      {
+       "title": "Workday 'Payroll Agent', 급여 주기 내내 오류를 찾아 수정안까지 준비… 승인은 급여 담당자가",
+       "when": "2026-11-18 발표, 2027년 초 시범",
+       "body": [
+        "Workday가 급여(Payroll) 기능을 홍콩·말레이시아·멕시코·네덜란드·뉴질랜드·싱가포르·스페인 7개 시장으로 넓히면서, 급여 AI 에이전트의 '자동 점검' 기능을 예고했습니다. 이미 나와 있는 Payroll Agent는 직원에게 급여명세서를 풀어 설명하고, 최저임금 변경을 알려 주고, 빠진 데이터를 찾아 고칠 거리를 제안합니다. 2027년 초 시범 공개될 새 기능은 급여 주기 전체에서 오류를 미리 잡아 수정안까지 만들되, 모든 변경은 급여 담당자가 승인해야 반영됩니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "급여처럼 틀리면 안 되는 업무에서도 AI는 '대신 처리'가 아니라 '찾아서 제안하고 사람이 승인'하는 방식으로 들어오고 있습니다(어제 브리핑의 인간 감독 원칙과 같은 구조). HR 운영 업무를 맡게 되면, AI가 무엇을 제안했고 누가 승인했는지 남는 구조인지부터 확인하는 습관을 들이면 좋습니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "Securities.io(AI 작성·편집부 검토)와 Fast Company Middle East 기사로 확인했습니다. 한국은 이번 확대 시장에 없고, 가격·라이선스는 나오지 않았습니다. 싱가포르는 일부 고객 먼저, 2027년 1월 정식 적용 예정입니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "Securities.io – Workday Uses AI-Assisted Development in Seven-Market Payroll Expansion",
+         "url": "https://www.securities.io/workday-uses-ai-assisted-development-in-seven-market-payroll-expansion/"
+        },
+        {
+         "title": "Fast Company Middle East – Workday expands AI, payroll and financial management offerings across global markets",
+         "url": "https://fastcompanyme.com/news/workday-expands-ai-payroll-and-financial-management-offerings-across-global-markets"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "비즈중앙 – 산재 은폐 신고에 최대 500만원…부정수급 땐 5년간 지급 제한 추진",
+     "url": "https://www.bizjoongang.co.kr/news/articleView.html?idxno=55361",
+     "text": "[비즈중앙 – 산재 은폐 신고에 최대 500만원…부정수급 땐 5년간 지급 제한 추진](https://www.bizjoongang.co.kr/news/articleView.html?idxno=55361): 내년 1월 시행되는 산업안전 신고포상금의 금액 구간, 지급 제외 사유, 의견 수렴 일정을 한 번에 정리한 기사입니다. 사내 안전보건교육 계획을 세우기 전에 읽어 두면 좋습니다. (약 5분)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/HR/blob/HEAD/briefings/2026/11/2026-11-19.md"
+  },
+  "ax": {
+   "title": "AX·AI·기업교육 브리핑 | 2026-11-19 (목)",
+   "oneLine": "모델은 더 싸지고 에이전트는 '사번 달린 동료'로 업무 공간에 들어오는데, 회사들의 인력 계획과 교육은 아직 그 속도를 따라잡는 중입니다",
+   "categories": [
+    {
+     "name": "AI·개발",
+     "articles": [
+      {
+       "title": "OpenAI, 전문 업무용 'GPT-6.2 Astra'와 일상 업무용 'GPT-6.2 Sol' 공개…성능은 올리고 값은 내려",
+       "when": "11/17, 미국 시간",
+       "body": [
+        "OpenAI가 새 모델 두 개를 내놨습니다. Astra는 이전 모델(GPT-6 Astra)보다 에이전트 종합 시험 점수가 5.2점 높으면서 작업당 비용은 3분의 1 이하라고 하고, API 가격도 20% 내렸습니다. Sol은 코딩 시험에서 Astra와 0.5점 차이까지 따라붙으면서 비용은 약 5분의 1입니다. ChatGPT의 업무용 화면(ChatGPT Work)과 코딩 도구 Codex에서 Plus·Pro·Enterprise·Edu 이용자에게 바로 열렸고, Enterprise·Edu는 관리자가 켜 줘야 씁니다. 성능 수치는 OpenAI 자체 발표이며, 두 모델 모두 OpenAI 기준 사이버보안 위험 '최고 단계(Critical)'로 분류돼 안전장치를 강화했다고 밝혔습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "회사가 ChatGPT Enterprise를 쓴다면 **새 모델이 '관리자 승인 후' 열린다**는 점을 IT와 먼저 확인하세요. 교육 자료의 화면 캡처·예시 답변이 금방 낡으니, 과정 안내문에 '모델 이름'보다 **'업무에 맞는 모델 고르는 기준'(어려운 일=상위 모델, 반복 일=싼 모델)**을 가르치는 편이 오래 갑니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "SiliconANGLE – OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+         "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
+        },
+        {
+         "title": "9to5Mac – OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
+         "url": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
+        }
+       ]
+      },
+      {
+       "title": "Microsoft Ignite: 사람·에이전트 공유 공간 'Copilot Workspaces', 자기 ID를 가진 장기 근무 에이전트 'Autopilot' 공개",
+       "when": "11/17, 미국 시간",
+       "body": [
+        "어제 다룬 투명성 표준에 이어, Ignite 기조연설의 제품 발표 쪽 소식입니다. Microsoft는 Copilot을 '업무 운영체제'로 내세우며 사람과 에이전트가 같은 자료를 놓고 함께 일하는 공간 **Workspaces**, 자기 에이전트 ID·메모리·도구 권한을 갖고 오래 일하며 Teams에서 @로 부를 수 있는 개인 에이전트 **Autopilot**, 말로 대시보드·앱을 만드는 **Copilot Code**를 발표했습니다. 대부분 신기능을 먼저 써 보는 'Frontier' 고객 대상 미리보기이고, Copilot Code는 12월 정식 출시 예정입니다. Copilot에 넣는 스킬·플러그인을 회사가 관리하는 기능은 정식 출시됐습니다. 가격은 아직 분명하지 않습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "에이전트가 **'Teams에서 이름을 불러 일을 맡기는 동료'** 모습이 되고 있습니다. M365를 쓰는 회사라면 내년 Copilot 교육에 '에이전트에게 일 맡기고 결과 확인하기'(위임·검수) 실습을 넣을 준비를 하고, 직원이 직접 만든 스킬을 회사가 관리하는 기준(누가 만들고 누가 승인하나)도 교육 내용에 포함하세요."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "디지털투데이 – 마이크로소프트, AI 에이전트 전략 업글...업무 OS로 코파일럿 투입",
+         "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716227"
+        },
+        {
+         "title": "Microsoft – Ignite 2026 Book of News",
+         "url": "https://news.microsoft.com/events/ignite/2026/book-of-news/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AX 기업",
+     "articles": [
+      {
+       "title": "우리금융 'AI Day'…은행·보험·카드·증권 6개 계열사가 AI 현업 사례 공유",
+       "when": "11/17 개최, 11/18 보도",
+       "body": [
+        "우리금융그룹이 본사에서 'AI Day'를 열고 그룹 전체 AX 방향을 나눴습니다. 우리은행은 기업금융 영업을 돕는 AI 에이전트, 동양생명은 AI 보험 가입 설계, 우리카드는 AI 검색 환경에 맞춘 상품 노출 마케팅, ABL생명은 AI 이상 금융거래 탐지 등 계열사별 사례를 발표했습니다. 참석자가 AI·IT 임원뿐 아니라 영업·마케팅·내부통제·정보보안 실무진까지 섞였다는 점이 눈에 띕니다. 지주 CDO는 'AI 도입을 넘어 일하는 방식을 바꾸겠다'는 취지로 말했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "계열사·부서별 사례를 한자리에서 발표하게 하는 **'사내 AI 사례 공유회'**는 교육 담당자가 바로 기획할 수 있는 확산 장치입니다. 우리금융처럼 **내부통제·보안 담당자를 청중으로 함께 부르면**, 현업 아이디어가 '규정상 안 된다'에서 막히는 일을 줄일 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "마이데일리 – \"은행·보험·카드·증권에 AI 입힌다\"…우리금융 계열사 AX 확산 속도",
+         "url": "https://www.mydaily.co.kr/page/view/2026111814590825934"
+        },
+        {
+         "title": "국제뉴스 – 우리금융, '2026 우리금융 AI Day' 개최…그룹 AX 방향 공유",
+         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756403"
+        }
+       ]
+      },
+      {
+       "title": "컨퍼런스보드 \"AI 영향을 회사 전체 인력·재무 계획에 반영한 곳은 11%뿐\"…68%는 재교육을 최우선 과제로 예상",
+       "when": "11/18, 미국 시간",
+       "body": [
+        "미국 경제 연구기관 컨퍼런스보드가 세계 기업 리더 775명 설문과 35명 인터뷰를 바탕으로 보고서를 냈습니다. AI가 인력에 미칠 영향을 회사 전체 계획에 반영했다는 곳은 11%, 일부 부서만 반영한 곳은 35%였고, 34%는 논의만 하는 단계였습니다. 앞으로 할 일로는 직무·업무 흐름 재설계(70%)와 업스킬링·리스킬링(68%)이 가장 많았고, 2년 안에 인원이 '조금 줄 것'이라는 답이 39%였습니다. 조사 시기와 표본 추출 방법은 보도자료에 나오지 않습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "리더 열 명 중 일곱이 '재교육이 최우선'이라고 하면서 정작 인력 계획에는 반영을 못 하고 있다는 뜻입니다. 내년 교육 계획을 올릴 때 **'어떤 직무가 바뀌는지 → 그래서 누구를 무엇으로 재교육하는지'**를 인사(인력 계획) 부서와 한 장에 묶어 내면, 교육이 비용이 아니라 인력 계획의 일부로 읽힙니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "PR Newswire – Report: Just 11% of Companies Have Fully Integrated AI Implications into Workforce Planning",
+         "url": "https://prnewswire.com/news-releases/report-just-11-of-companies-have-fully-integrated-ai-implications-into-workforce-planning-302944089.html"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "기업교육",
+     "articles": [
+      {
+       "title": "한국전력 'AI로 전력설비 고장 분석' 과정, 공공 HRD 콘테스트 교육과정 부문 대통령상",
+       "when": "11/11~12 대회, 11/16 발표",
+       "body": [
+        "한전이 국가공무원인재개발원 주최 '공공 HRD 콘테스트'에서 교육과정 분야 최고상을 받았습니다. 수상 과정은 송변전 현장 엔지니어가 AI로 설비 고장 원인을 분석·예측하도록 설계됐고, 웹 VR과 3D 모델 같은 디지털 학습 도구에 실제 AI 적용 사례로 문제를 푸는 실습을 붙였습니다. 25개 팀이 참가해 8팀이 본선에 올랐으며, 한전은 사내 직무 교육에 AI 활용 과목을 크게 늘릴 계획입니다. 수강 인원이나 효과 수치는 기사에 없습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "같은 대회에서 코레일(11/14 브리핑)이 '사내 강사로 전 직원 교육'으로, 한전은 **'직무 하나(고장 분석)에 AI를 깊게 붙인 과정'**으로 상을 받았습니다. 전사 기초 교육 다음 단계를 고민 중이라면 **핵심 직무 1~2개를 골라 '그 일의 AI 버전' 과정을 만드는 방식**을 벤치마킹하세요."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "이투데이 – 한전, '2026 공공 HRD 콘테스트' 대통령상⋯AI 교육 성과 인정",
+         "url": "https://www.etoday.co.kr/news/view/2648768"
+        }
+       ]
+      },
+      {
+       "title": "한국기술교육대 포럼…내년부터 교강사 과정 전체를 AI 기반으로, 3월엔 개인 맞춤 'AI 학습비서' 도입",
+       "when": "11/18",
+       "body": [
+        "직업훈련 교사·강사를 길러 온 한국기술교육대(한기대)가 개교 35주년 포럼에서 AI 기반 직업능력개발 전략을 내놨습니다. 산하 능력개발교육원은 내년부터 교강사 대상 과정을 모두 AI 기반으로 바꾸고 '피지컬 AI'(로봇 등 현실에서 움직이는 AI) 실습 역량 체계를 4단계로 만들며, 온라인평생교육원은 내년 3월 학습자마다 맞춰 주는 'AI 학습비서'를 정식 도입합니다. 고용서비스 자체를 AI 중심으로 바꾸자는 제안도 나왔습니다. 계획 발표 단계이고 구체적 성과 수치는 없습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "직업훈련 강사를 키우는 기관이 **'강사 교육부터 AI로'** 바꾼다는 건, 내년부터 외부 교육 기관·강사의 AI 활용 수준이 업체 선정 기준이 된다는 신호입니다. 사내 강사 양성 과정에도 **'AI로 수업 준비·피드백하기'** 모듈을 넣어 두면 좋습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "데일리안 – 한기대, 개교 35주년 직업능력개발 포럼 개최…AI 기반 미래교육 전략 제시",
+         "url": "https://www.dailian.co.kr/news/view/1716682/%ED%95%9C%EA%B8%B0%EB%8C%80-%EA%B0%9C%EA%B5%90-35%EC%A3%BC%EB%85%84-%EC%A7%81%EC%97%85%EB%8A%A5%EB%A0%A5%EA%B0%9C%EB%B0%9C-%ED%8F%AC-2026"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "컨퍼런스보드 보도자료 – Just 11% of Companies Have Fully Integrated AI Implications into Workforce Planning (영문, 약 5분)",
+     "url": "https://prnewswire.com/news-releases/report-just-11-of-companies-have-fully-integrated-ai-implications-into-workforce-planning-302944089.html",
+     "text": "**컨퍼런스보드 보도자료 – Just 11% of Companies Have Fully Integrated AI Implications into Workforce Planning (영문, 약 5분):** 4번 소식의 원문입니다. '계획 반영 단계'와 '예상 조치' 숫자가 깔끔하게 정리돼 있어 내년 교육 계획서의 배경 근거로 그대로 옮겨 쓰기 좋습니다. [링크](https://prnewswire.com/news-releases/report-just-11-of-companies-have-fully-integrated-ai-implications-into-workforce-planning-302944089.html)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/AI-AX/blob/HEAD/briefings/2026/11/2026-11-19.md"
+  }
+ }
+}

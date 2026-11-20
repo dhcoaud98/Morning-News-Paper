@@ -1,0 +1,361 @@
+{
+ "date": "2026-10-27",
+ "weekday": "화",
+ "issueNo": 9,
+ "sections": {
+  "hr": {
+   "title": "HR 브리핑 | 2026-10-27 (화)",
+   "oneLine": "AI 기대는 높은데 성과는 아직이고, 법·제도는 국회에 머물러 있습니다. 지금 HR은 \"도입\"보다 \"제대로 쓰는 법\"을 다시 짜는 단계입니다.",
+   "categories": [
+    {
+     "name": "HR 트렌드",
+     "articles": [
+      {
+       "title": "노동장관 \"정년연장·포괄임금 금지 연내 처리해야\"… 둘 다 아직 국회 통과 전",
+       "when": "2026-10-12~13",
+       "body": [
+        "김영훈 고용노동부 장관이 국정감사에서 정년연장 법안을 올해 안에 처리해야 하고, 공짜 야근의 원인으로 꼽히는 포괄임금계약 금지 법안도 하반기에 통과돼야 한다고 밝혔습니다. 여당은 법정 정년 65세를 목표로 하지만 청년 고용과 임금체계 개편을 둘러싼 노사 이견으로 논의가 막혀 있고, 정부안은 아직 나오지 않았습니다. 포괄임금 관련 법안 9건은 4월 국회 법안소위에 올라간 뒤 계류 중입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "정년이 늘어나면 임금피크제, 직무급 같은 임금체계 개편과 고령 인력 재교육이 함께 움직입니다. HRD에서는 '시니어 리스킬링'이 곧 과제가 될 수 있으니, 노무·보상 쪽과 묶어서 흐름을 따라가 두면 좋습니다."
+       },
+       "notes": [
+        {
+         "label": "법안 상태",
+         "text": "두 법안 모두 **국회 통과 전**입니다. 시행일과 적용 대상은 아직 정해지지 않았습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "파이낸셜뉴스 – 김영훈 \"정년연장 법안 연내 처리를… 정부안 조속히 밝힐 것\"",
+         "url": "https://www.fnnews.com/news/202610131816480431"
+        },
+        {
+         "title": "헤럴드경제 – 김영훈 \"포괄임금 법 개정안, 하반기 반드시 통과해야\"",
+         "url": "https://www.heraldk.com/article/2026101220542466613"
+        }
+       ]
+      },
+      {
+       "title": "Gartner: 이사회 77%는 AI로 비용 절감을 기대하지만, 생산성으로 목표를 넘은 조직은 3%",
+       "when": "2026-10-26",
+       "body": [
+        "Gartner는 미국 올랜도에서 열린 HR Symposium/Xpo(10/26~28) 첫날, 이사회 구성원의 기대와 실제 성과 사이의 큰 격차를 발표했습니다. 기조연설의 메시지는 생산성 자체보다 이전에 불가능했던 가치를 만드는 데 AI를 써야 한다는 것입니다. 2027 L&D 트렌드 세션에서는 업스킬링에서 리스킬링으로의 전환, AI 코칭의 역할, 그리고 AI 결과물을 \"검증 전까지는 신뢰하지 않는\" 태도를 교육해야 한다는 점을 강조했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "\"AI 교육을 했다\"를 넘어서 \"AI로 무엇이 바뀌었는지\"를 보여 줘야 하는 시기입니다. 교육 성과 측정을 업무 성과 지표와 연결하는 설계 경험은 HRBP나 피플 애널리틱스로 옮겨 갈 때 강점이 됩니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "보도자료 원문 페이지는 열리지 않아, 같은 날 Gartner가 낸 Day 1 하이라이트로 수치와 내용을 확인했습니다. 조사 표본과 방법은 확인하지 못했습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "Gartner – HR Symposium/Xpo, North America: Day 1 Highlights",
+         "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-26-gartner-hr-symposium-xpo-orlando-day-1-highlights"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "채용·취업",
+     "articles": [
+      {
+       "title": "9월 청년 취업자 47개월째 감소… 미국도 HR 직무 구인은 평년 수준",
+       "when": "2026-10-16 / 10-22",
+       "body": [
+        "국가데이터처의 9월 고용동향에 따르면 전체 취업자는 1년 전보다 11만3천 명 늘었지만, 15~29세 취업자는 14만7천 명 줄어 47개월 연속 감소했습니다. 청년 고용률은 44.0%(-1.1%p), 실업률은 5.4%(+0.6%p)입니다. 업종별로는 보건·사회복지가 크게 늘고 숙박·음식점, 건설은 줄었습니다. 미국 Indeed Hiring Lab의 10월 스냅샷에서는 인사(HR) 직무 구인지수가 약 99로 팬데믹 이전 수준에 머물렀습니다. 반면 AI 관련 공고 비중은 7.3%로 역대 최고였습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "신입 채용 문이 좁은 시장에서는 기업이 신입 온보딩과 초기 육성에 쓰는 비용과 방식도 바뀝니다. HR 직무로 옮길 때는 'AI를 쓰는 HR' 경험이 차별점이 될 가능성이 큽니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "아이뉴스24 – 9월 취업자 11만3천명↑ 8월보다 둔화…청년 취업자 47개월째 감소",
+         "url": "https://www.inews24.com/view/2015634"
+        },
+        {
+         "title": "Indeed Hiring Lab – US Labor Market Snapshot — October 2026",
+         "url": "https://hiringlab.indeed.com/2026/10/22/us-labor-market-snapshot-october-2026/"
+        }
+       ]
+      },
+      {
+       "title": "하반기 대기업 공채: 자기소개서 대신 'AI 활용 경험'을 묻는다",
+       "when": "2026-10-14",
+       "body": [
+        "삼성은 19개 계열사가 하반기 공채에 참여해 10월 GSAT, 11월 면접 일정으로 진행합니다(채용 규모는 비공개). SK하이닉스는 나이·학력 제한을 없애고 자기소개서를 AI 활용과 반도체 전문성 문항으로 바꿨습니다. 면접도 20~30분에서 반나절 평가로 늘렸습니다. 포스코그룹은 자기소개서를 학교·대외활동 항목으로 대체했고, 현대차는 오프라인 행사 우수자에게 서류를 면제하는 'H-Superpass'를 운영합니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "채용이 '글로 쓴 자기소개'에서 '관찰 가능한 역량 평가'로 옮겨 가고 있습니다. 역량 모델링과 평가센터(AC) 설계는 HRD와 채용이 겹치는 영역이라, 커리어를 잇는 다리로 쓰기 좋습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "이슈온 – 하반기 대기업 채용 막바지…삼성 19개 계열사 이달 GSAT, 11월 면접",
+         "url": "https://www.issueon.co.kr/news/articleView.html?idxno=14094"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HR 업계",
+     "articles": [
+      {
+       "title": "공공기관 직무급 도입률 68.3%로 소폭 하락… 임금체계 개편 동력 약화",
+       "when": "2026-10-07",
+       "body": [
+        "기획재정부 점검 결과 2025년 직무급을 도입한 공공기관은 205곳 중 140곳(68.3%)으로, 전년(69.4%)보다 조금 줄었습니다. 경영평가에서 관련 배점이 줄고 가점이 사라진 데다, 일부 기관은 노사 합의가 지연되면서 평가 방식 결정을 미뤘습니다. 정부는 점검 대상이 늘어난 영향이라며 도입 기관 수는 계속 늘고 있다는 입장입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "직무급은 '제도 설계'보다 '노사 합의와 평가 방식'에서 막히는 경우가 많습니다. 보상 직무에 관심이 있다면 직무평가 방법론과 함께 커뮤니케이션·변화관리 역량을 같이 준비하는 것이 현실적입니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "세계일보 – 호봉 대신 일·성과로 임금 개편 한다더니… 공공기관 '직무급' 도입률 되레 주춤",
+         "url": "https://www.segye.com/newsView/20261007516891"
+        }
+       ]
+      },
+      {
+       "title": "인사혁신처, 'AI 상시 성과관리·보고 단계 축소' 업무 혁신 지침 첫 발간",
+       "when": "2026-10-27",
+       "body": [
+        "인사혁신처가 4월 발표한 일하는 방식 혁신방안의 후속으로 실천 안내서를 처음 펴냈습니다. 업무 대화와 자료를 수시로 기록해 연말에 실적을 기억에 의존해 정리하지 않도록 하고, AI로 실적을 실시간으로 쌓는 상시 성과관리를 제시했습니다. 업무 성격에 따라 담당자가 과장·국장에게 바로 보고하도록 해 보고 단계도 줄입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "공공 부문에서도 '연 1회 평가'에서 '상시 기록·피드백'으로 옮겨 가고 있습니다. 1on1과 상시 피드백을 정착시키는 교육은 HRD가 성과관리에 직접 기여할 수 있는 영역입니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "뉴스핌 – 공무원 보고 단계 줄이고 AI로 성과관리…인사처, 업무 혁신 지침 첫 발간",
+         "url": "https://www.newspim.com/news/view/20261027000698"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "실무 툴",
+     "articles": [
+      {
+       "title": "SAP SuccessFactors 2H 2026 릴리스: 채용·급여·학습에 AI 어시스턴트",
+       "when": "2026-10-12",
+       "body": [
+        "SAP가 하반기 업데이트에서 HR 업무 단계별로 AI 에이전트를 붙였습니다. 리크루터는 대량 지원자에서 숏리스트를 뽑고, AI 추천의 근거를 리포트로 확인하며, 면접 요약을 자동으로 받을 수 있습니다. 급여 담당자는 급여 이상치를 찾고 승인 지연 알림을 받을 수 있습니다. 학습 쪽에서는 Learning Assistant가 필수교육 마감일 알림, 역량 격차 파악, 맞춤 학습 추천을 맡습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "필수교육 독려나 학습 추천 같은 반복 업무가 시스템으로 넘어가면, HRD 담당자의 역할은 '추천 규칙과 역량 체계를 설계하는 사람'이 됩니다. 쓰는 LMS나 HRIS에 비슷한 기능이 있는지 점검해 볼 만합니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "SAP News – SAP SuccessFactors 2H 2026 Release",
+         "url": "https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/"
+        }
+       ]
+      },
+      {
+       "title": "HR의 AI 활용 83%인데 전사 확산은 25%… \"판단 근거를 기록해야 AI가 쓸모 있다\"",
+       "when": "2026-10-19",
+       "body": [
+        "다우오피스HR의 국내 인사 실무자 259명 조사에서 83.4%가 업무에 AI를 쓰지만, 전사 확산이나 반복 업무 자동화까지 간 곳은 24.7%였습니다. Culture Amp 조사에서도 HR의 AI 활용은 콘텐츠 작성(86%)에 몰려 있었습니다. 휴먼컨설팅그룹(HCG)은 평가 등급이나 배치 결과만이 아니라 그렇게 결정한 기준과 논의 과정을 남겨야 AI가 회사 맥락을 이해할 수 있다고 주장했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "당장 해 볼 수 있는 일은 교육 대상자 선정 기준, 과정 평가 결과에 대한 판단 근거를 표나 문서로 꾸준히 남기는 것입니다. 이런 기록은 AI 활용의 재료이면서 피플 애널리틱스 포트폴리오도 됩니다."
+       },
+       "notes": [
+        {
+         "label": "참고",
+         "text": "HCG는 자사 행사(10/28 HR AI 컨퍼런스)를 함께 알리고 있어, 주장 부분은 업체의 관점으로 읽는 것이 좋습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "ZDNet Korea – AI 쓰는 HR 늘었지만 성과 더딘 이유…\"열쇠는 조직 맥락\"",
+         "url": "https://zdnet.co.kr/view/?no=20261018215613"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "Gartner – HR Symposium/Xpo Day 1 Highlights",
+     "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-26-gartner-hr-symposium-xpo-orlando-day-1-highlights",
+     "text": "[Gartner – HR Symposium/Xpo Day 1 Highlights](https://www.gartner.com/en/newsroom/press-releases/2026-10-26-gartner-hr-symposium-xpo-orlando-day-1-highlights): CHRO 우선순위와 2027 L&D 트렌드를 한 페이지에서 볼 수 있습니다. HRD 관점과 HR 전체 관점을 함께 보기 좋습니다. (예상 소요 15분)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/HR/blob/HEAD/briefings/2026/10/2026-10-27.md"
+  },
+  "ax": {
+   "title": "AX·AI·기업교육 브리핑 | 2026-10-27 (화)",
+   "oneLine": "AI는 더 싸고 빨라지는데, 기업은 에이전트에게 사번을 주고 직원의 AI 사용액에 한도를 거는 식으로 '관리'를 시작했고, 직원 쪽에서는 'AI로 일하는 능력'이 교육 주제를 넘어 인사 평가 기준이 되고 있습니다",
+   "categories": [
+    {
+     "name": "AI·개발",
+     "articles": [
+      {
+       "title": "OpenAI, 값을 절반으로 낮춘 중간급 모델 'GPT-6.1 Terra' 공개",
+       "when": "10/26",
+       "body": [
+        "OpenAI가 중간급 모델 GPT-6.1 Terra를 내놓았습니다. API 가격은 입력 100만 토큰당 1달러, 출력 5달러로 이전 GPT-5.6 Terra와 상위 모델 GPT-6.1 Sol보다 약 50% 쌉니다. 화면을 보고 클릭·입력하는 '컴퓨터 사용' 작업과 시각 작업, 일상적인 글쓰기에서 빠르고 저렴한 선택지로 내세웠습니다. ChatGPT에서는 일반 대화창이 아니라 업무용 에이전트 'ChatGPT Work'와 코딩 도구 Codex에서 유료 요금제(Plus·Pro·Business·Enterprise·Edu)에 순차 적용되며, 무료 이용자는 쓸 수 없습니다. 오류율·속도 개선 수치는 OpenAI 자체 발표로, 아직 독립 검증은 없습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "같은 예산으로 에이전트 실습을 더 많이 돌릴 수 있게 되는 흐름입니다. 사내 AI 교육 예산을 짤 때 **\"가장 좋은 모델\" 대신 \"업무별로 충분한 모델\"을 고르는 법**을 실습 항목에 넣으면, 다음 4번 소식처럼 사용액 한도가 걸린 조직에서도 교육 효과를 유지할 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "Online Tech Tips – OpenAI releases GPT-6.1 Terra model upgrade with improved speed and lower cost",
+         "url": "https://www.online-tech-tips.com/openai-gpt-6-1-terra-release-speed-lower-cost/"
+        },
+        {
+         "title": "AI Weekly – OpenAI Ships GPT-6.1 Terra at $1/$5 Per Million, Half of Sol",
+         "url": "https://aiweekly.co/alerts/openai-ships-gpt-61-terra-with-computer-use-at-scale-at-1-input5-output-per"
+        }
+       ]
+      },
+      {
+       "title": "'다운로드' 폴더에 몰래 놓인 설명서 파일 하나로 코딩 에이전트가 조종당했다",
+       "when": "10/26 보도",
+       "body": [
+        "보안 회사 Forever Security는 고객 PC의 '다운로드' 폴더에 정체불명의 AGENTS.md 파일이 들어 있었고, 그 폴더에서 실행된 코딩 에이전트가 이 파일의 지시를 따라 악성 패키지를 설치하려다 차단된 사례를 공개했습니다. 에이전트는 이런 파일을 '프로젝트 작업 지침'으로 믿고 읽기 때문에, 웹사이트가 평범한 다운로드로 같은 이름의 파일을 떨어뜨려 놓기만 해도 공격이 됩니다. 통제된 시험에서 OpenAI Codex는 90% 넘게 지시를 따랐고, Claude Code는 약 절반의 시험에서 설정이 바뀌어 로그인 토큰이 연구진 서버로 새어 나갔습니다. 기사에는 OpenAI·Anthropic의 대응이 나오지 않았습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "에이전트 실습 교육의 **기본 안전 수칙**으로 바로 옮길 수 있는 사례입니다. \"다운로드 폴더 같은 아무 폴더에서 에이전트를 켜지 않는다\", \"처음 보는 AGENTS.md·CLAUDE.md는 먼저 열어 본다\", \"승인 창과 샌드박스를 끄지 않는다\" 세 줄을 실습 안내문 첫 장에 넣어 두세요."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "Cybersecurity News – Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder",
+         "url": "https://cybersecuritynews.com/codex-and-claude-code-hijack/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AX 기업",
+     "articles": [
+      {
+       "title": "SKT, 사내 AI 에이전트에 '사번' 주고 성과 평가…첫 AI 거버넌스 보고서",
+       "when": "10/26",
+       "body": [
+        "SK텔레콤이 처음으로 AI 거버넌스 보고서를 내고 사내 AI 에이전트 관리 방식을 공개했습니다. 표준 업무 절차가 있고, 성과를 잴 수 있고, 사람 개입 없이 일을 끝낼 수 있는 에이전트에는 사번을 주고 그 성과를 조직 생산성 평가에 반영합니다. 자율성이 높거나 사업 영향이 큰 에이전트에는 팀장·임원급 감독자를 붙이고, 실행 기록·사용 모델·설정 변경을 남기다가 이상이 생기면 멈춥니다. 2026년 기반 구축, 2027년 권한 통제·사람 승인 강화, 2028년 운영부터 폐기까지 전 주기 관리가 목표이며, 사내 에이전트 관리체계로 AI 경영 국제표준(ISO/IEC 42001) 인증도 받았습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "에이전트를 '도구'가 아니라 **'채용하고 평가하고 퇴역시키는 동료'로 관리하는 국내 대기업 첫 공개 사례**입니다. 팀장 교육에 \"내 팀 에이전트의 감독자가 된다면 무엇을 봐야 하나(업무 절차, 성과 지표, 멈춤 조건)\"를 넣는 근거가 되고, 사번 부여 기준 세 가지는 **에이전트 업무 발굴 워크숍의 체크리스트**로 그대로 쓸 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "S저널 – SK텔레콤, AI에도 사번 부여하고 성과 평가… 사내 업무 확대에 통제 강화",
+         "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44798"
+        },
+        {
+         "title": "뉴데일리 – SKT, AI 에이전트 보안·관리체계 강화 … 첫 거버넌스 보고서 발간",
+         "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600024.html"
+        }
+       ]
+      },
+      {
+       "title": "액센츄어, 직원 1인당 Claude 사용액 '월 29달러'까지만 회사 부담",
+       "when": "10/15 보도",
+       "body": [
+        "고객사에는 AI 투자를 권하는 액센츄어가 10월 1일부터 직원의 Claude 사용 비용을 1인당 월 29달러까지만 회사가 내고, 넘는 금액은 해당 프로젝트·팀 예산으로 돌리도록 바꿨다고 404 Media가 보도했습니다. 코딩 에이전트로 월 500~1,000달러를 쓰던 직원도 있었고, 일부는 접근 권한이 아예 회수됐다고 합니다. 회사는 \"업무에 맞는 도구를 쓰게 한다\"며 AI 투자는 계속한다고 밝혔습니다. 마이크로소프트·아틀라시안·우버 등도 직원 AI 지출에 한도를 두는 쪽으로 움직이고 있다고 합니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "사용량만큼 돈을 내는 에이전트 시대에는 **\"많이 쓰게 하는 교육\"이 곧 \"비용을 늘리는 교육\"**이 될 수 있습니다. AX 교육 성과를 사용량·활용률로만 보고하지 말고, 1번 소식처럼 **업무별로 알맞은 모델 고르기와 비용 대비 성과 측정**을 함께 가르쳐야 예산 부서를 설득할 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "The Next Web – Accenture caps staff Claude spending at $29 a month, 404 Media reports",
+         "url": "https://thenextweb.com/news/accenture-claude-29-a-month-cap"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "기업교육",
+     "articles": [
+      {
+       "title": "하이트진로, 관리자 26명 'AX 리더 과정'에서 업무 혁신과제 26건 나왔다",
+       "when": "10/27 보도",
+       "body": [
+        "하이트진로가 관리자급 직원 26명이 참여한 'AX 리더 육성과정' 1기를 마치고 10월 21일 시상식을 열었습니다. 8~9월 두 차례 교육에서 말로 지시해 프로그램을 만드는 '바이브 코딩'을 배우고, 각자 자기 업무의 문제를 AI로 푸는 과제를 하나씩 냈습니다. 과제의 절반 이상이 영업·마케팅에서 나왔고, 동료 평가 → 디지털 부서 평가 → 임원 심사를 거쳐 영업 데이터 통합 AI 플랫폼, 상권 매출 분석 에이전트, 계약서 법무 검토 프로그램 등 5건이 뽑혔습니다. 선정 과제는 실제 업무에 적용하고 부서 간에 사례를 공유하며, 후속 교육도 늘릴 계획입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "'교육 → 1인 1과제 → 3단계 심사 → 현업 적용'으로 이어지는 **AX 리더 과정의 표준 설계도**로 참고하기 좋습니다. 특히 심사에 디지털 부서와 임원을 넣어 **교육 결과가 곧바로 실행 예산·담당자로 연결되게** 한 점은, \"교육만으로는 고급 단계로 못 간다\"(10/26 노션 조사)는 한계를 메우는 방법입니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "이투데이 – 하이트진로, AI로 영업·마케팅 업무 바꾼다…혁신과제 26건 발굴",
+         "url": "https://www.etoday.co.kr/news/view/2640352"
+        }
+       ]
+      },
+      {
+       "title": "프로톤, 전 직원 대상 'AI 활용 재면접'…결과에 따라 역할·고용 바뀔 수 있다",
+       "when": "10/26",
+       "body": [
+        "보안 메일 서비스 회사 프로톤(Proton)이 직원들에게 업무에서 AI를 어떻게 쓰는지 '다시 면접'을 보겠다고 공지했다고 404 Media가 유출 이메일을 근거로 보도했습니다. 면접은 11월 4~11일 열리며, 같은 팀·보고 라인이 아닌 'AI 역량이 뛰어난 리더들'이 면접관을 맡고, 결과는 역할·책임·고용 유지 판단에 쓰일 수 있다고 합니다. 모든 직원이 대상은 아니며, 사전 교육이나 지원이 있는지는 기사에 나오지 않았고 회사는 논평 요청에 바로 답하지 않았습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "AI 활용 능력이 **'배워 두면 좋은 역량'에서 '고용 판단 기준'으로** 넘어간 극단적 사례입니다. 이런 평가를 할 거라면 그 전에 **무엇을 기준으로 보는지 공개하고 연습할 기회(교육·모의 과제)를 주는 것**이 공정성과 신뢰의 조건이라는 점을, 인사·교육 담당자가 경영진에 먼저 제안할 수 있습니다. 국내에서 AI 역량 평가를 도입하려는 회사가 있다면 반면교사로 삼을 만합니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "404 Media – Proton To 'Re-Interview' Staff About AI To See Who Gets To Keep Their Job",
+         "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "California Management Review 「Why AI Training Is Driving Adoption but Not Sustainable Productivity」 (10/2, 영문, 약 15분)",
+     "url": "https://cmr.berkeley.edu/2026/10/why-ai-training-is-driving-adoption-but-not-sustainable-productivity/",
+     "text": "**California Management Review 「Why AI Training Is Driving Adoption but Not Sustainable Productivity」 (10/2, 영문, 약 15분):** 회사 AI 교육을 받으면 정기 사용자가 약 4배로 늘지만, 아낀 시간은 교육 여부와 관계없이 대부분 주 0~3시간에 머문다는 연구입니다. 저자들은 그 차이를 **'아낀 시간을 어디에 다시 쓰느냐(재투자)'**에서 찾고, 교육을 승인된 도구·업무 흐름·동료 학습과 묶고, 아낀 시간의 쓰임새를 미리 정하고, 사용률이 아니라 그 이후 성과를 재라고 권합니다. 오늘 4·5번 소식과 함께 읽으면 **AX 교육 성과 보고서의 지표 설계**에 바로 쓸 수 있습니다. [링크](https://cmr.berkeley.edu/2026/10/why-ai-training-is-driving-adoption-but-not-sustainable-productivity/)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/AI-AX/blob/HEAD/briefings/2026/10/2026-10-27.md"
+  }
+ }
+}
