@@ -333,21 +333,28 @@
     });
   }
 
-  function rerenderHome(keepFocus) {
-    var pos = keepFocus ? document.getElementById('q').selectionStart : 0;
+  function rerenderHome() {
     var y = window.scrollY;
     render(home()); bindHome();
     window.scrollTo(0, y);
-    if (keepFocus) { var q = document.getElementById('q'); q.focus(); q.setSelectionRange(pos, pos); }
+  }
+  function refreshResults() {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = home();
+    ['.cal', '.recent'].forEach(function (sel) {
+      var cur = app.querySelector(sel), next = tmp.querySelector(sel);
+      if (cur && next) cur.innerHTML = next.innerHTML;
+    });
   }
   function bindHome() {
     var q = document.getElementById('q');
-    if (q) q.addEventListener('input', function () { state.query = q.value; rerenderHome(true); });
+    // 입력창은 다시 만들지 않고 달력·목록만 바꿈 (한글 조합이 끊기지 않게)
+    if (q) q.addEventListener('input', function () { state.query = q.value; refreshResults(); });
     app.querySelectorAll('[data-sec]').forEach(function (b) {
-      b.addEventListener('click', function () { state.sec = b.getAttribute('data-sec'); rerenderHome(false); });
+      b.addEventListener('click', function () { state.sec = b.getAttribute('data-sec'); rerenderHome(); });
     });
     app.querySelectorAll('[data-month]').forEach(function (b) {
-      b.addEventListener('click', function () { var v = b.getAttribute('data-month'); if (v) { state.month = v; rerenderHome(false); } });
+      b.addEventListener('click', function () { var v = b.getAttribute('data-month'); if (v) { state.month = v; rerenderHome(); } });
     });
   }
 
