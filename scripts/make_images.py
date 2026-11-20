@@ -10,14 +10,27 @@ ROOT = Path(__file__).resolve().parent.parent
 ICONS = ROOT / "assets" / "icons"
 NOTION = ROOT / "assets" / "notion"
 SVG = (ICONS / "favicon.svg").read_text(encoding="utf-8")
+# 사이트 바탕과 같은 갱지 질감
+import urllib.parse
+TEXTURE = "url(data:image/svg+xml," + urllib.parse.quote((ROOT / "assets" / "paper.svg").read_text(encoding="utf-8"), safe="") + ")"
 
 PAPER, INK, MUTED, RULE, ACCENT = "#FAF8F3", "#1A1A1A", "#5A5650", "#C9C3B6", "#9E2A1E"
 SERIF = '"Noto Serif CJK KR","Noto Serif KR",serif'
 SANS = '"Noto Sans CJK KR","Noto Sans KR",sans-serif'
 
 
-def icon_html(size: int) -> str:
-    return f"<html><body style='margin:0;background:transparent'><div id='s' style='width:{size}px;height:{size}px'>{SVG.replace('<svg ', f'<svg width=\"{size}\" height=\"{size}\" ', 1)}</div></body></html>"
+def icon_html(size: int, textured: bool = True) -> str:
+    svg = SVG.replace('<svg ', f'<svg width="{size}" height="{size}" style="position:absolute;left:0;top:0" ', 1)
+    if not textured:
+        return f"<html><body style='margin:0;background:transparent'><div id='s' style='width:{size}px;height:{size}px'>{svg}</div></body></html>"
+    # 종이 바탕(질감)을 깔고, 아이콘의 바탕 사각형은 투명하게 해서 질감이 보이게 함
+    svg = svg.replace('fill="' + PAPER + '"', 'fill="none"', 1)
+    r = size * 14 / 64
+    inset = size * 1.5 / 64
+    tile = max(200, size)  # 작은 아이콘에서도 결이 보이도록 타일을 줄임
+    return (f"<html><body style='margin:0;background:transparent'><div id='s' style='position:relative;width:{size}px;height:{size}px'>"
+            f"<div style=\"position:absolute;left:{inset}px;top:{inset}px;right:{inset}px;bottom:{inset}px;border-radius:{r}px;"
+            f"background-color:{PAPER};background-image:{TEXTURE};background-size:{tile}px {tile}px\"></div>{svg}</div></body></html>")
 
 
 def bars(n, x, y, w, gap=22, h=8, seed=0):
@@ -40,7 +53,7 @@ def cover_html(w: int, h: int) -> str:
     for c in range(3):
         cols += bars(6, left0 + c * (col_w + col_gap), horizon + 34 * s, col_w, gap=22 * s, h=7 * s, seed=c)
     return f"""<html><body style='margin:0'>
-<div id='s' style='position:relative;width:{w}px;height:{h}px;overflow:hidden;background:{PAPER};font-family:{SANS};color:{INK}'>
+<div id='s' style='position:relative;width:{w}px;height:{h}px;overflow:hidden;background-color:{PAPER};background-image:{TEXTURE};background-size:800px 800px;font-family:{SANS};color:{INK}'>
   <div style='position:absolute;left:0;right:0;top:{40*s}px;border-top:{3*s}px solid {INK}'></div>
   <div style='position:absolute;left:0;right:0;top:{48*s}px;border-top:{1*s}px solid {INK}'></div>
   <div style='position:absolute;left:0;right:0;bottom:{48*s}px;border-top:{1*s}px solid {INK}'></div>
@@ -73,7 +86,8 @@ def main():
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page()
-        for size, name in [(32, "favicon-32.png"), (180, "apple-touch-icon.png"), (192, "icon-192.png"), (512, "icon-512.png")]:
+        shoot(pg, icon_html(32, textured=False), ICONS / "favicon-32.png", 32, 32, transparent=True)  # 너무 작아 질감 생략
+        for size, name in [(180, "apple-touch-icon.png"), (192, "icon-192.png"), (512, "icon-512.png")]:
             shoot(pg, icon_html(size), ICONS / name, size, size, transparent=True)
         shoot(pg, icon_html(512), NOTION / "notion-icon.png", 512, 512, transparent=True)
         shoot(pg, cover_html(1500, 600), NOTION / "notion-cover.png", 1500, 600)
