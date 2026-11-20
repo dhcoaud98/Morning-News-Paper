@@ -42,34 +42,35 @@ def bars(n, x, y, w, gap=22, h=8, seed=0):
     return "".join(out)
 
 
-def cover_html(w: int, h: int) -> str:
-    s = h / 600  # 600px 높이 기준 비율
-    sun_r = 165 * s
-    horizon = h * 0.62
-    sun_cx = w - 300 * s
-    cols = ""
-    col_w, col_gap = 120 * s, 26 * s
-    left0 = sun_cx - (col_w * 3 + col_gap * 2) / 2
-    for c in range(3):
-        cols += bars(6, left0 + c * (col_w + col_gap), horizon + 34 * s, col_w, gap=22 * s, h=7 * s, seed=c)
+def cover_html(w: int, h: int, notion: bool = False) -> str:
+    """가운데 정렬 구도. Notion은 갤러리 카드에서 양옆, 페이지 커버에서 위아래를 자르므로
+    제호·해·가로줄을 가운데 띠(세로 약 200~400px, 가로 약 300~1200px)에 모읍니다."""
+    s = h / 600
+    cx, cy = w / 2, h / 2
+    title_px = 118 * s
+    sun_r = 54 * s
+    row_w = 760 * s
+    base = cy + 40 * s          # 제호 아랫선 = 지평선
+    left = cx - row_w / 2
+    # 가장자리 장식용 신문 줄 (잘려도 무방)
+    deco = ""
+    for side_x in (60 * s, w - 60 * s - 170 * s):
+        deco += bars(9, side_x, cy - 100 * s, 170 * s, gap=22 * s, h=7 * s, seed=int(side_x) % 5)
     return f"""<html><body style='margin:0'>
 <div id='s' style='position:relative;width:{w}px;height:{h}px;overflow:hidden;background-color:{PAPER};background-image:{TEXTURE};background-size:800px 800px;font-family:{SANS};color:{INK}'>
   <div style='position:absolute;left:0;right:0;top:{40*s}px;border-top:{3*s}px solid {INK}'></div>
   <div style='position:absolute;left:0;right:0;top:{48*s}px;border-top:{1*s}px solid {INK}'></div>
   <div style='position:absolute;left:0;right:0;bottom:{48*s}px;border-top:{1*s}px solid {INK}'></div>
   <div style='position:absolute;left:0;right:0;bottom:{40*s}px;border-top:{3*s}px solid {INK}'></div>
-
-  <div style='position:absolute;left:{sun_cx - sun_r}px;top:{horizon - sun_r}px;width:{sun_r*2}px;height:{sun_r}px;border-radius:{sun_r}px {sun_r}px 0 0;background:{ACCENT}'></div>
-  <div style='position:absolute;left:{sun_cx - 330*s}px;width:{660*s}px;top:{horizon}px;height:{9*s}px;background:{INK}'></div>
-  <div style='position:absolute;left:{sun_cx - 330*s}px;width:{660*s}px;top:{horizon + 16*s}px;height:{2.5*s}px;background:{INK}'></div>
-  {cols}
-
-  <div style='position:absolute;left:{110*s}px;top:{150*s}px'>
-    <div style='font-size:{20*s}px;letter-spacing:.32em;color:{MUTED}'>HR · AX · ECONOMY</div>
-    <div style='font-family:{SERIF};font-weight:900;font-size:{148*s}px;line-height:1.05;letter-spacing:-.02em;margin-top:{14*s}px'>아침 브리핑</div>
-    <div style='margin-top:{22*s}px;padding-top:{18*s}px;border-top:{1.5*s}px solid {INK};font-family:{SERIF};font-size:{26*s}px;color:#3A3732;width:{620*s}px'>일하는 사람을 위한 나만의 조간</div>
-    <div style='margin-top:{10*s}px;font-size:{18*s}px;color:{MUTED}'>인사 · AI 전환과 기업교육 · 경제 &nbsp;|&nbsp; 매일 아침 9시 30분 발행</div>
+  {deco}
+  <div style='position:absolute;left:0;width:{w}px;top:{cy - 150*s}px;text-align:center;font-size:{18*s}px;letter-spacing:.32em;color:{MUTED}'>HR · AX · ECONOMY</div>
+  <div style='position:absolute;left:{left}px;width:{row_w}px;top:{base - title_px*1.12}px;display:flex;align-items:flex-end;justify-content:center;gap:{30*s}px'>
+    <div style='width:{sun_r*2}px;height:{sun_r}px;border-radius:{sun_r}px {sun_r}px 0 0;background:{ACCENT};flex:none;margin-bottom:{4*s}px'></div>
+    <div style='font-family:{SERIF};font-weight:900;font-size:{title_px}px;line-height:1.1;letter-spacing:-.02em;white-space:nowrap'>아침 브리핑</div>
   </div>
+  <div style='position:absolute;left:{left - 40*s}px;width:{row_w + 80*s}px;top:{base + 6*s}px;height:{6*s}px;background:{INK}'></div>
+  <div style='position:absolute;left:{left - 40*s}px;width:{row_w + 80*s}px;top:{base + 18*s}px;height:{2*s}px;background:{INK}'></div>
+  <div style='position:absolute;left:0;width:{w}px;top:{base + 44*s}px;text-align:center;font-family:{SERIF};font-size:{22*s}px;color:#3A3732'>일하는 사람을 위한 나만의 조간 · 매일 아침 9시 30분</div>
 </div></body></html>"""
 
 
