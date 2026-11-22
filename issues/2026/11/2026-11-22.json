@@ -1,0 +1,336 @@
+{
+ "date": "2026-11-22",
+ "weekday": "일",
+ "issueNo": 35,
+ "sections": {
+  "hr": {
+   "title": "HR 브리핑 | 2026-11-22 (일)",
+   "oneLine": "AI 교육은 임원에게 몰리고, 지원자는 '성장 기회'를 보고 회사를 고르고 떠나며, 작은 회사는 근로시간을 줄여 사람을 붙잡았습니다. 오늘 소식은 '누구에게 성장과 여유를 나눠 주느냐'가 인재 경쟁력이라는 이야기로 모입니다.",
+   "categories": [
+    {
+     "name": "HR 트렌드",
+     "articles": [
+      {
+       "title": "Marsh 조사: AI 교육을 받았다는 임원은 78%, 시간제 직원은 20%… \"AI 전환이 현장에서 멈춰 섰다\"",
+       "when": "2026-11-19 발표, 11-20 보도",
+       "body": [
+        "보험·리스크 컨설팅 그룹 Marsh가 10개국 직원 6,700명을 조사한 'HR 테크가 인력에 미치는 영향' 보고서를 HR Dive가 소개했습니다. 지난 1년 사이 회사에서 AI 교육을 받았다는 답은 임원 78%, 경력 전문직 44%였지만 신입 전문직은 32%, 시간제 직원은 20%에 그쳤습니다. AI를 '정기적으로' 쓰는 비율도 임원 64%, 신입 20%로 벌어졌고, 전체로는 71%가 써 본 적은 있지만 꾸준히 쓰는 사람은 37%뿐이었습니다. Marsh는 이 상태를 '멈춰 선 전환'이라고 불렀습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "AI 교육을 '위에서부터' 내려보내는 방식이 오히려 실제 사용을 막는다는 데이터라, HRD가 내년 AI 교육 대상을 정할 때 현장·신입 직원 비중을 늘리자고 제안할 근거가 됩니다. 교육 성과를 '수료율'보다 '직급별 정기 사용률 격차'로 재 보는 것도 피플 애널리틱스와 연결되는 좋은 지표입니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "HR Dive 기사로 확인했습니다. Marsh 보고서 원문은 직접 보지 않았고, 조사 국가 목록은 기사에 나오지 않습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "HR Dive – Executives get more AI training than other workers, hurting adoption, report finds",
+         "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/"
+        }
+       ]
+      },
+      {
+       "title": "임금은 그대로, 사무·영업직 근로시간은 주 40→35시간… 37명 회사의 이직률 44%→16%",
+       "when": "2026-11-19 포럼",
+       "body": [
+        "노사발전재단이 19일 '일터혁신 사례공유 포럼'에서 근로시간을 줄인 중소기업 두 곳을 소개했습니다. 전광판 설계·시공업체 디스플레이허브는 사무·영업직의 소정근로시간을 주 35시간으로 줄이면서 임금은 깎지 않았고, 기술직은 주 40시간을 유지하는 대신 고정으로 주던 연장근로수당을 기본급에 넣었습니다. 매달 마지막 금요일 오후 3시 유급 조기 퇴근도 운영해 회사 평균 실근로시간은 주 38.3시간에서 36.2시간으로 줄었고, 이직률은 2024년 44%에서 16%로 내려갔습니다. 의료기기 소모품 제조사 바이오프로테크는 사무직 주 4시간, 생산직 금요일 2시간을 줄이고 줄어든 임금을 메우는 보전수당을 새로 만들었으며 10명을 새로 뽑았습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "주 4.5일제가 '모든 직원 금요일 휴무' 한 가지 모양이 아니라, 직무별로 시간·수당 구조를 다르게 짜는 설계 문제라는 걸 보여 주는 사례입니다. 줄어든 시간 안에서 같은 성과를 내려면 업무 방식 교육과 회의 문화 개선이 함께 가야 하므로, HRD가 근로시간 제도 논의에 들어갈 자리가 여기 있습니다."
+       },
+       "notes": [
+        {
+         "label": "단계·적용 대상",
+         "text": "법 개정이 아니라 개별 기업 사례입니다. 두 회사는 정부의 주 4.5일제 지원 사업인 '워라밸+4.5 프로젝트' 참여 승인을 받았습니다."
+        },
+        {
+         "label": "확인 정도",
+         "text": "아시아투데이 기사로 확인했습니다. 이직률 개선이 근로시간 단축만의 효과인지는 기사에서 따로 검증하지 않았습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "아시아투데이 – 임금 그대로 사무·영업직 하루 1시간 단축…이직률 44%→16%",
+         "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007693"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "채용·취업",
+     "articles": [
+      {
+       "title": "\"지원하는 이유도, 떠나는 이유도 1위는 '성장 기회'\"… McLean 신규 입사자·퇴사자 조사",
+       "when": "2026-11-20 보도",
+       "body": [
+        "HR 리서치 회사 McLean & Company의 신규 입사자 설문과 퇴사 설문 보고서에 따르면, 구직자의 52.5%가 '커리어 기회'를 지원 이유 1위로 꼽았고 48.3%는 그 때문에 제안을 수락했다고 답했습니다. 자발적으로 회사를 떠난 사람의 43.4%는 '성장 기회 부족'을 첫째 이유로 들었고, 이 응답은 2023년 이후 거의 변하지 않았습니다. 신규 입사자는 채용 과정에는 가장 높은 점수(긍정 94.4%)를, '성과 기대치 안내'에는 가장 낮은 점수(86.3%)를 줬습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "11월 21일 브리핑의 '불만은 쌓였는데 못 옮기는' 직원들이 무엇에 불만인지 알려 주는 숫자입니다. 커리어 개발이 채용 공고의 매력이자 퇴사를 막는 장치이므로, 교육·경력 경로를 채용 브랜딩과 온보딩 첫 주의 '기대치 안내'까지 이어 설계하는 것이 HRD에서 HR로 넓히는 좋은 연결 고리입니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "HR Dive 기사로 확인했습니다. 보고서의 표본 수와 조사 국가는 기사에 나오지 않습니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "HR Dive – Career development is the top reason people apply for and leave jobs",
+         "url": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/"
+        }
+       ]
+      },
+      {
+       "title": "Greenhouse 조사: 미국 고용주 90% \"AI로 만든 듯한 지원서 때문에 진짜 지원자를 떨어뜨렸을 수도\"… 86%는 채용 절차를 바꿔",
+       "when": "2026-11-19 보도",
+       "body": [
+        "채용관리시스템 회사 Greenhouse가 미국·영국·아일랜드·독일·호주의 채용 담당자와 현업 면접관 약 1,350명을 조사했습니다. 86%가 가짜이거나 AI로 만든 지원서 때문에 절차를 바꿨고, 그중 57%는 사람이 보는 면접을 한 번 더 넣어 채용이 느려졌습니다(서류 통과 후 첫 면접까지 평균 19일). 81%는 지원자가 AI 심사를 피하려는 시도를 잡아냈다고 했는데, 없는 스킬을 적거나(49%) 이력서에 숨은 글자를 넣는(28%) 방식이었습니다. 한편 AI 면접은 52%가 이미 쓰고 있고 73%가 1년 안에 쓸 계획입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "AI가 지원서를 쓰고 AI가 거르는 경쟁이 붙으면서 결국 '사람 면접'이 다시 늘고 있습니다. 면접관 교육에서 구조화 면접과 근거를 적는 평가표 사용법이 더 중요해지는 이유이고, 채용 담당 직무를 준비한다면 '가짜 지원자를 어떻게 거를 것인가'에 대한 자기 생각을 정리해 둘 만합니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "HR Dive 기사로 확인했습니다. Greenhouse는 자기 제품과 관련 있는 회사라 조사 결과를 볼 때 그 점을 감안해야 합니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "HR Dive – Job candidates' AI usage is obscuring their viability, report finds",
+         "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HR 업계",
+     "articles": [
+      {
+       "title": "삼성전자 2027년 사장단 인사, 전영현·노태문 투톱 유지… 사장 승진 3명 모두 반도체, 대기업 사장단 인사는 '대수술 대신 핀셋 교체'",
+       "when": "2026-11-20 발표, 11-22 정리 보도",
+       "body": [
+        "삼성전자가 20일 사장 승진 3명, 업무 변경 3명 등 6명 규모의 2027년 사장단 인사를 냈습니다. 두 대표이사 체제는 그대로 두고, 대표가 겸하던 메모리사업부장과 MX(모바일)사업부장 자리에 각각 전문 경영진을 새로 앉혔으며, 승진자는 메모리·시스템LSI·CTO(반도체연구소장 겸) 등 모두 반도체 쪽입니다. 연합뉴스는 삼성·LG·SK·롯데·신세계 등의 올해 말 인사를 묶어 \"CEO 교체 폭은 좁고, 실적 좋은 곳은 키우고 쇄신은 필요한 곳만 했다\"고 정리했습니다. 삼성 정기 임원인사와 SK 후속 인사(12월 3일께 예상)가 남아 있습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "대표가 여러 사업부장을 겸하던 구조를 풀고 사업부마다 전담 리더를 세운 것은 '리더 한 명에게 몰린 역할을 나누는' 조직 설계입니다. 이어질 임원인사에서 신규 임원 규모와 연령대가 나오면, 사내 리더십 파이프라인 교육(신임 임원·팀장 과정) 대상과 시점을 다시 잡는 근거로 쓸 수 있습니다."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "지디넷코리아 기사와 연합뉴스 기사(서플 재게재)로 확인했습니다. 11월 17일 브리핑에서 다룬 '이르면 이번 주' 예상 기사의 실제 결과입니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "지디넷코리아 – 삼성전자 2027년 사장단 인사...전영현·노태문 2인 체제 유지",
+         "url": "https://zdnet.co.kr/view/?no=20261120090936"
+        },
+        {
+         "title": "서플(연합뉴스) – 대기업 인사 대수술 없었다…잘한 곳 키우고 쇄신은 핀셋으로",
+         "url": "https://supple.kr/news/cmwqx8t1fojojkwp8r6blet87"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "실무 툴",
+     "articles": [
+      {
+       "title": "Google 캘린더 '참석자에게 이메일' 버튼이 Gmail 작성 창으로 바뀐다… 응답 상태별로 받는 사람 고르기",
+       "when": "2026-11-19 발표, 12월 중순까지 순차 적용",
+       "body": [
+        "Google이 캘린더 웹의 '참석자에게 이메일 보내기'를 누르면 Gmail 작성 창이 바로 열리도록 바꿉니다. 받는 사람, 일정 제목, 일정 개요가 미리 채워지고, 참석 응답(예·아니요·미정·응답 대기)별로 받을 사람을 골라 보낼 수 있습니다. Gmail 창이라 서식, 예약 발송, Drive 파일 공유 권한 확인을 그대로 쓸 수 있고, 예전처럼 글자 수 제한이 있는 일반 텍스트 창에 갇히지 않습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "교육·워크숍 담당자에게 바로 쓸모 있는 기능입니다. '응답 대기' 인원에게만 리마인드를 보내고, '예'라고 답한 사람에게만 사전 자료 링크를 예약 발송하는 식으로 출결 안내를 손으로 명단 정리 없이 처리할 수 있습니다. 회사가 Google Workspace를 쓴다면 12월 교육 공지부터 시험해 보세요."
+       },
+       "notes": [
+        {
+         "label": "확인 정도",
+         "text": "Google Workspace 업데이트 블로그 11월 목록에서 발표 문장을 확인했습니다. 응답 상태별 선택, 적용 일정(빠른 출시 도메인 11-19부터 약 3주, 예약 출시 도메인 12-18부터), 대상(모든 Workspace·개인 계정)은 블로그 요약으로 본 것이라 개별 공지 원문으로 다시 확인이 필요합니다."
+        }
+       ],
+       "sources": [
+        {
+         "title": "Google Workspace Updates – November 2026",
+         "url": "https://workspaceupdates.googleblog.com/2026/11/"
+        },
+        {
+         "title": "개별 공지: Email meeting guests from Google Calendar with the full capabilities of Gmail",
+         "url": "https://workspaceupdates.googleblog.com/2026/11/email-meeting-guests-from-google-Calendar-with-the-full-capabilities-of-Gmail.html"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "HR Dive – Executives get more AI training than other workers, hurting adoption, report finds",
+     "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+     "text": "[HR Dive – Executives get more AI training than other workers, hurting adoption, report finds](https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/): 직급별 AI 교육·사용 격차를 숫자로 보여 주는 짧은 기사입니다. 내년 AI 교육 대상과 성과 지표를 정할 때 그대로 인용하기 좋습니다. (약 5분)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/HR/blob/HEAD/briefings/2026/11/2026-11-22.md"
+  },
+  "ax": {
+   "title": "AX·AI·기업교육 브리핑 | 2026-11-22 (일)",
+   "oneLine": "에이전트가 몇 시간짜리 일을 혼자 끝내는 시대가 다가오자, 돈이 되는 곳은 '에이전트를 안전하게 굴리는 운영'으로 옮겨 가고, 교육은 AI 도구 사용법보다 리더십·소통 같은 사람의 역량을 함께 지키는 쪽으로 무게가 실리고 있습니다",
+   "categories": [
+    {
+     "name": "AI·개발",
+     "articles": [
+      {
+       "title": "OpenAI 내부 측정 \"에이전트가 2~4시간짜리 연구 과제의 46%를 혼자 끝낸다\"…단, 일 종류에 따라 들쭉날쭉",
+       "when": "11/18, 미국 시간",
+       "body": [
+        "OpenAI가 자사 연구원들이 코딩 에이전트를 얼마나 쓰고 있는지 내부 수치를 공개했습니다. 사람이 2~4시간 걸릴 과제를 에이전트가 개입 없이 끝내는 비율은 3월 23%에서 10월 46%로, 4~8시간 과제는 13%에서 35%로 올랐습니다. 다만 학습 상황 지켜보기 같은 일은 79%를 해내는 반면, 실제 서비스용 코드 작성은 25%에 그쳐 일 종류에 따라 실력 차이가 컸습니다. OpenAI는 이를 '들쭉날쭉한 최전선'이라고 부르며 여전히 사람이 핵심이라고 덧붙였습니다. 회사가 직접 잰 내부 수치입니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "'에이전트가 다 한다/못 한다'가 아니라 **업무 종류별로 맡길 수 있는 정도가 다르다**는 것이 핵심입니다. 현업 교육에서 **'내 업무를 잘게 쪼개 에이전트에게 맡길 것·확인할 것·직접 할 것으로 나누는 실습'**을 넣으면, 이 수치를 그대로 도입 근거로 쓸 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "OpenAI – Research acceleration: The jagged frontier",
+         "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
+        }
+       ]
+      },
+      {
+       "title": "에이전트 개발 도구 LangChain, 3억 달러 투자 유치…\"Workday는 에이전트 배포 기간을 5개월에서 하루 미만으로\"",
+       "when": "11/16, 미국 시간",
+       "body": [
+        "AI 에이전트를 만들고 시험하고 관리하는 개발 도구를 만드는 LangChain이 구글 계열 투자사 CapitalG가 이끈 3억 달러 투자를 받아 기업가치 30억 달러를 인정받았습니다. 1년 전보다 두 배가 넘는 가치로, 7,000곳 넘는 조직이 에이전트 운영·감독 플랫폼 LangSmith를 쓰고 있다고 밝혔습니다. 회사는 HR 소프트웨어 기업 Workday가 새 에이전트를 내놓는 데 걸리는 시간을 5개월에서 하루 미만으로 줄였다고 소개했는데, 이는 LangChain 쪽 주장입니다. 고객 현장에 직접 들어가는 엔지니어(FDE)도 수십 명 두고 있습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "투자금이 '모델'보다 **'에이전트를 만들고 지켜보는 운영 도구'**로 몰리고 있습니다. 사내 개발·IT 직군 과정에 **에이전트 테스트·모니터링(관측) 실습**을 넣을 때가 됐고, 비개발 직군에게는 '에이전트도 배포 전에 시험과 검수를 거친다'는 감각을 심어 주면 됩니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "The Next Web – LangChain raises $300m at a $3bn valuation to help companies run AI agents",
+         "url": "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AX 기업",
+     "articles": [
+      {
+       "title": "IT서비스 3사 3분기 실적…LG CNS는 매출의 57%가 AI·클라우드, SK AX는 영업이익 29% 증가",
+       "when": "11/16",
+       "body": [
+        "AI 전환 수요 덕에 국내 IT서비스 3사가 3분기에 좋은 실적을 냈습니다. LG CNS는 매출 1조 6,643억 원(9.3% 증가) 중 AI·클라우드가 9,615억 원으로 약 57%를 차지했고, SK AX는 매출 8,052억 원·영업이익 804억 원으로 영업이익이 약 29% 늘며 자체 에이전트 플랫폼으로 업무 자동화를 넓히고 있습니다. 삼성SDS는 매출 3조 7,725억 원으로 소폭 늘었고 클라우드 매출이 18% 증가했습니다. 다만 기사는 SK AX가 AX 매출을 따로 공개하지 않아 '순수 AI 매출'을 가려내기 어렵다고 짚었습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "대형 IT서비스사의 돈벌이 중심이 이미 **AI·클라우드**로 넘어갔다는 숫자입니다. 이 회사들이 파는 '구축+교육 묶음'과 경쟁하거나 협업할 때, 교육 제안서에 **'구축 뒤 현업이 실제로 쓰게 만드는 정착 교육'**을 차별점으로 세우세요."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "MTN 머니투데이방송 – AI 전환에 웃은 IT서비스 업계...SK AX도 영업익 29% 증가",
+         "url": "https://news.mtn.co.kr/article/2026111616532990087"
+        }
+       ]
+      },
+      {
+       "title": "아이티센클로잇, 에이전트 관리 플랫폼 '에이전트고'로 제약·바이오 AX 공략…규제 정보 검색·안전성 계획서 초안에 적용",
+       "when": "11/20",
+       "body": [
+        "아이티센클로잇이 AI 에이전트 관리 플랫폼 '에이전트고'를 앞세워 규제가 까다로운 제약·바이오 업계를 공략한다고 밝혔습니다. 전사적 자원관리(ERP)·생산관리(MES)·품질관리 시스템과 여러 AI 모델을 한곳에 연결하고, 민감정보 가리기·악성 명령 차단·권한 관리·사용 기록 남기기를 기본으로 넣었습니다. 한 국내 제약사에서는 나라별 규제 정보 검색과 의약품 안전성 관리 계획서 초안 작성에 적용했고, 11월 17일 업계 세미나에는 현업 담당자 100여 명이 참석했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "규제 산업일수록 AX는 '좋은 모델'보다 **'기록이 남고 권한이 통제되는 운영'**이 먼저입니다. 금융·제약·공공 고객 대상 교육에서는 **'우리 업무에서 AI가 봐서는 안 되는 정보 목록 만들기'**를 첫 실습으로 넣으면 보안 부서의 반대를 줄일 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "디지털데일리 – 아이티센클로잇, '에이전트고' 앞세워 제약·바이오 AX 공략",
+         "url": "https://www.ddaily.co.kr/page/view/2026112012120813990"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "기업교육",
+     "articles": [
+      {
+       "title": "General Assembly, 6개국 HR·L&D 리더 510명 조사 \"52%는 AI가 직원의 소통·협업 능력을 약하게 만든다고 본다\"",
+       "when": "11/19",
+       "body": [
+        "기술 교육 기업 General Assembly가 6개국 대기업 HR·교육 리더 510명을 조사했습니다. 52%는 AI 사용이 소통·갈등 해결·협업 같은 '사람 기술'을 약하게 만든다고 답했지만, 83%는 바로 그 사람 역량의 가치가 오히려 커지고 있다고 봤습니다. 64%는 AI 역량 교육 압박을 크게 받고 있고, 57%는 직무별로 특화된 AI 교육 수요가 늘 것으로 예상했습니다. 성과 지표로 '업무 성과'를 꼽은 곳(47%)이 '수료율'(36%)보다 많았고, 교육 전략을 사업 우선순위와 연결한 곳은 예산이 크게 늘 것이라는 기대가 두 배 높았습니다(23% vs 11%)."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "AI 과정만 늘리면 **소통·협업 역량이 빈틈**으로 남을 수 있다는 경고입니다. 내년 계획에 AI 실무 과정과 **'AI 결과물을 두고 동료와 토론·피드백하는 협업 세션'**을 짝으로 묶으면, 두 마리 토끼를 함께 잡는 설계로 설명하기 좋습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "IT Brief Asia – AI training may be weakening workers' human skills",
+         "url": "https://itbrief.asia/story/ai-training-may-be-weakening-workers-human-skills"
+        }
+       ]
+      },
+      {
+       "title": "Josh Bersin 'HR 선도 사례'에 Workday…AI 전환에 맞춰 핵심 리더 300명 대상 9개월 '변화 리더십 프로그램'",
+       "when": "11/15, 약 1주 전",
+       "body": [
+        "HR 분석가 조시 버신이 운영하는 팟캐스트 시리즈에서, AI 전환을 진행 중인 Workday가 핵심 리더 300명을 대상으로 9개월짜리 변화 리더십 프로그램을 운영한 사례를 다뤘습니다. AI 전환이 기술 문제가 아니라 리더가 팀을 이끄는 방식 자체를 바꾸는 일이라는 관점입니다. 세부 커리큘럼과 성과는 팟캐스트 소개 글 수준에서만 확인했고, 본편 내용은 직접 듣지 못했습니다."
+       ],
+       "meaning": {
+        "label": "나에게 의미",
+        "text": "2번 소식처럼 에이전트를 하루 만에 배포하는 회사도 **리더 교육에는 9개월**을 씁니다. 경영진·팀장 AX 과정을 1~2회 특강으로 끝내지 말고, **몇 달에 걸친 실행 과제형 리더십 과정**으로 제안할 근거 사례로 쓸 수 있습니다."
+       },
+       "notes": [],
+       "sources": [
+        {
+         "title": "The Josh Bersin Company – HR Pacesetter: Workday's AI Transformation Demands A New Model for Leadership",
+         "url": "https://joshbersin.com/"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "terms": [],
+   "numbers": [],
+   "nextCheck": "",
+   "picks": [
+    {
+     "title": "ZipRecruiter – Better Work, More to Learn: The 2026 AI Worker Report (영문, 약 15분, 10월 말 게재)",
+     "url": "https://www.ziprecruiter-research.org/economic-insights-research/2026-ai-worker-report",
+     "text": "**ZipRecruiter – Better Work, More to Learn: The 2026 AI Worker Report (영문, 약 15분, 10월 말 게재):** 미국 직장인 1,500명 조사로, 82.5%가 업무에 AI를 쓰지만 충분한 교육을 받았다는 사람은 28.9%뿐이고, 임원은 83.5%가 교육을 받은 반면 신입은 45.3%에 그쳤습니다. '누가 교육에서 빠져 있는지'를 직급·성별로 보여 줘, 5번 조사와 함께 내년 교육 대상 우선순위를 정할 때 참고하기 좋습니다. [링크](https://www.ziprecruiter-research.org/economic-insights-research/2026-ai-worker-report)"
+    }
+   ],
+   "question": null,
+   "sourceUrl": "https://github.com/dhcoaud98/AI-AX/blob/HEAD/briefings/2026/11/2026-11-22.md"
+  }
+ }
+}
